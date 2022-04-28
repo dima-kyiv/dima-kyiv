@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center"><a href="https://github.com/dima-kyiv/"><img width="80%" src="./img/readmy-header.png" /></a></p>
+
+<br />
+
+This repository was created for my hands-on projects Full Stack Web Developer Course in GoIT and contains my solution from some challenges on Frontend Mentor.
+
+And keeping weekly diary of my study.
 
 <!--
 **dima-kyiv/dima-kyiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
