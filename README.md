@@ -10,16 +10,15 @@ I'm a passionate FrontEnd student developer from Ukraine.
 
 📈 -Keeping weekly diary of my study.
 
-<table><thead><tr><th>week</th><th>Time coding</th><th>Projects</th><th>KPI</th></tr></thead>
-<tr><td valign="top" width="10%">
-100
-</td><td valign="top" width="50%">
-xcxcxzckm.vmc.,vm,
-</td><td valign="top" width="10%">
-40
-</td><td valign="top" width="15%">
-⭐⭐⭐⭐⭐
-</td></tr></table>
+<table><thead><tr>
+<th valign="top" width="10%">week</th>
+<th valign="top" width="10%">Time coding</th>
+<th valign="top" width="60%">Projects</th>
+<th valign="top" width="20%">KPI</th></tr></thead>
+<tr><td>1</td><td>12</td><td>
+40dsdghffdgsdfgsfdgfdgsdfgsfdgfdsgsdfgsdgdfgdf
+</td><td>⭐⭐⭐⭐⭐</td></tr>
+</table>
 
 <!--
 **dima-kyiv/dima-kyiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
