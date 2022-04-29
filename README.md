@@ -1,10 +1,9 @@
 <p align="center"><a href="https://github.com/dima-kyiv/"><img width="80%" src="./img/readme-header.png" /></a></p>
-
 <br />
+*Hi! I`m Dmytro Koval
+I`m beginner in Web Development, and I want to be a Full Stack Developer. This is my way of gaining programming experience.
 
-I`m beginner in web development, and I want to be a Full Stack Developer. This is my way of gaining programming experience.
-
-**what, why and how**
+**What, why and how**
 
 💼 -This repository was created for my hands-on projects Full Stack Web Developer Course in GoIT and contains my solutions from some challenges on Frontend Mentor.
 
@@ -35,7 +34,7 @@ I`m beginner in web development, and I want to be a Full Stack Developer. This i
 <th align="top" width="7%">Week</th>
 <th align="top" width="7%">Time coding</th>
 <th align="top" width="36%">Projects</th>
-<th align="top" width="36%">what I learned</th>
+<th align="top" width="36%">What I learned</th>
 <th align="top" width="14%">KPI</th></tr></thead>
 
 <tr><td>2</td><td></td><td>
