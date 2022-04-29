@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a passionate FrontEnd student developer from Ukraine.
+I`m beginner in web development, and I want to be a Full Stack Developer. This is my way of gaining programming experience.
 
 **what, why and how**
 
