@@ -19,15 +19,10 @@ I'm a passionate FrontEnd student developer from Ukraine.
 <th valign="top" width="20%">Technologies / Approaches</th>
 <th valign="top" width="14%">Difficulty</th></tr></thead>
 
-<tr><td>2</td><td></td><td>
-goit-markup-hw-01; goit-markup-hw-02
-</td><td>css color and text
-</td><td>⭐⭐⭐⭐⭐</td></tr>
-<tr><td>1</td><td>6</td><td>
-goit-markup-hw-01
-</td><td>
-html markup
-</td><td>⭐⭐⭐</td></tr>
+<tr><td>Resume (GoIt)</td><td>[Live]()</td><td>[Code]()</td><td>HTML, CSS</td><td>⭐</td></tr>
+<tr><td>WebStudio (GoIT)</td><td>[Live]()</td><td>[Code]()</td><td>HTML, CSS</td><td>⭐⭐⭐</td></tr>
+<tr><td>Barbershop (GoIT)</td><td>[Live]()</td><td>[Code]()</td><td>HTML, CSS</td><td>⭐⭐⭐</td></tr>
+<tr><td></td><td>[Live]()</td><td>[Code]()</td><td>HTML, CSS</td><td>⭐⭐⭐⭐⭐</td></tr>
 </table>
 
 **Study diary**
