@@ -11,10 +11,14 @@ I'm a passionate FrontEnd student developer from Ukraine.
 📈 -Keeping weekly diary of my study.
 
 <table><thead><tr>
-<th valign="top" width="10%">week</th>
+<th valign="top" width="10%">Week</th>
 <th valign="top" width="10%">Time coding</th>
 <th valign="top" width="60%">Projects</th>
 <th valign="top" width="20%">KPI</th></tr></thead>
+
+<tr><td>2</td><td>15</td><td>
+40dsdghffdgsdfgsxcxfh ghg  ghgffg dffsdf dsgfdfdsf fdgfdgsdfgsfdgfdsgsdfgsdgdfgdf
+</td><td>⭐⭐⭐⭐⭐</td></tr>
 <tr><td>1</td><td>12</td><td>
 40dsdghffdgsdfgsfdgfdgsdfgsfdgfdsgsdfgsdgdfgdf
 </td><td>⭐⭐⭐⭐⭐</td></tr>
