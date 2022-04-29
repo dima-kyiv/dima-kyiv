@@ -8,9 +8,31 @@ I'm a passionate FrontEnd student developer from Ukraine.
 
 💼 -This repository was created for my hands-on projects Full Stack Web Developer Course in GoIT and contains my solutions from some challenges on Frontend Mentor.
 
-📈 -Keeping weekly diary of my study. Starting April 18 2022.
+📈 -Keeping weekly diary of my study. Starting from April 18, 2022.
 
-<table width ="100%"><thead><tr>
+**Finished Projects**
+
+<table><thead><tr width ="100%">
+<th valign="top" width="46%">Name/Challanges</th>
+<th valign="top" width="10%">Live</th>
+<th valign="top" width="10%">Code</th>
+<th valign="top" width="20%">Technologies / Approaches</th>
+<th valign="top" width="14%">Difficulty</th></tr></thead>
+
+<tr><td>2</td><td></td><td>
+goit-markup-hw-01; goit-markup-hw-02
+</td><td>css color and text
+</td><td>⭐⭐⭐⭐⭐</td></tr>
+<tr><td>1</td><td>6</td><td>
+goit-markup-hw-01
+</td><td>
+html markup
+</td><td>⭐⭐⭐</td></tr>
+</table>
+
+**Study diary**
+
+<table><thead><tr width ="100%">
 <th valign="top" width="7%">Week</th>
 <th valign="top" width="7%">Time coding</th>
 <th valign="top" width="36%">Projects</th>
