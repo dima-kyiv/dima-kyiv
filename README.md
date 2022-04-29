@@ -12,12 +12,12 @@ I'm a passionate FrontEnd student developer from Ukraine.
 
 **Finished Projects**
 
-<table><thead><tr width ="100%">
-<th valign="top" width="46%">Name/Challanges</th>
-<th valign="top" width="10%">Live</th>
-<th valign="top" width="10%">Code</th>
-<th valign="top" width="20%">Technologies / Approaches</th>
-<th valign="top" width="14%">Difficulty</th></tr></thead>
+<table><thead><tr>
+<th align="left" width="46%">Name/Challanges</th>
+<th align="center" width="10%">Live</th>
+<th align="center" width="10%">Code</th>
+<th align="center" width="20%">Technologies / Approaches</th>
+<th align="left" width="14%">Difficulty</th></tr></thead>
 
   <tr><td>Resume (GoIt)</td><td><a href ="#">Live</a></td><td><a href ="#">Code</a></td><td>HTML, CSS</td><td>⭐</td></tr>
 <tr><td>WebStudio (GoIT) / in process</td><td><a href ="https://dima-kyiv.github.io/goit-markup-hw-02/">Live</a></td>
@@ -31,12 +31,12 @@ I'm a passionate FrontEnd student developer from Ukraine.
 
 **Study diary**
 
-<table><thead><tr width ="100%">
-<th valign="top" width="7%">Week</th>
-<th valign="top" width="7%">Time coding</th>
-<th valign="top" width="36%">Projects</th>
-<th valign="top" width="36%">what I learned</th>
-<th valign="top" width="14%">KPI</th></tr></thead>
+<table><thead><tr>
+<th align="top" width="7%">Week</th>
+<th align="top" width="7%">Time coding</th>
+<th align="top" width="36%">Projects</th>
+<th align="top" width="36%">what I learned</th>
+<th align="top" width="14%">KPI</th></tr></thead>
 
 <tr><td>2</td><td></td><td>
 goit-markup-hw-01; goit-markup-hw-02
