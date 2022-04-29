@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/dima-kyiv/"><img width="70%" src="./img/readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/dima-kyiv/"><img width="50%" src="./img/readme-header.png" /></a></p>
 
 <br />
 
@@ -6,11 +6,11 @@ I'm a passionate FrontEnd student developer from Ukraine.
 
 **what, why and how**
 
-💼 -This repository was created for my hands-on projects Full Stack Web Developer Course in GoIT and contains my solution from some challenges on Frontend Mentor.
+💼 -This repository was created for my hands-on projects Full Stack Web Developer Course in GoIT and contains my solutions from some challenges on Frontend Mentor.
 
 📈 -Keeping weekly diary of my study. Starting April 18 2022.
 
-<table><thead><tr>
+<table width ="100%"><thead><tr>
 <th valign="top" width="7%">Week</th>
 <th valign="top" width="7%">Time coding</th>
 <th valign="top" width="36%">Projects</th>
