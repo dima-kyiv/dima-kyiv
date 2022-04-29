@@ -1,5 +1,6 @@
-<a href="mailto:4dimakoval@gmail.com/"><img src="https://img.shields.io/badge/EMAIL-4dimakoval%40gmail.com-ea4335?style-flat&logo=gmail"/></a>
-<a href="https://www.linkedin.com/in/koval-dmytro/><img src="https://img.shields.io/badge/profile-linkedin-0072b1?style-flat&logo=linkedin/"></a>
+<a href="mailto:4dimakoval@gmail.com/"><img src="https://img.shields.io/badge/EMAIL-4dimakoval%40gmail.com-ea4335?style-flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/koval-dmytro/"><img src="https://img.shields.io/badge/profile-linkedin-0072b1?style-flat&logo=linkedin"></a>
+<a href="https://www.duolingo.com/profile/DmytroKova14"><img src="https://img.shields.io/badge/profile-duolingo-7AC70C?style-flat&logo=duolingo"></a>
 <p align="center"><a href="https://www.linkedin.com/in/koval-dmytro//"><img width="70%" src="./img/readme-header.png" /></a></p>
 
 I`m beginner in Web Development, and I want to be a Full Stack Developer. This is my way of gaining programming experience.
