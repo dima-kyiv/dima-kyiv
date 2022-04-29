@@ -49,6 +49,6 @@ html markup
 <div align="center">
 <a href="mailto:4dimakoval@gmail.com"><img src="https://img.shields.io/badge/EMAIL-4dimakoval%40gmail.com-ea4335?style-flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/koval-dmytro/"><img src="https://img.shields.io/badge/profile-linkedin-0072b1?style-flat&logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/profile-gitlab-fc6d27?style-flat&logo=gitlab"></a>
+<a href="https://gitlab.com/dima-kyiv"><img src="https://img.shields.io/badge/profile-gitlab-fc6d27?style-flat&logo=gitlab"></a>
 <a href="https://github.com/dima-kyiv"><img src="https://img.shields.io/badge/profile-github-592693?style-flat&logo=github"></a>
 <a href="https://codepen.io/dima-kyiv"><img src="https://img.shields.io/badge/profile-codepen-ffffff?style-flat&logo=codepen"></a></div>
