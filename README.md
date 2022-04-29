@@ -18,9 +18,9 @@ I'm a passionate FrontEnd student developer from Ukraine.
 <th valign="top" width="10%">Code</th>
 <th valign="top" width="20%">Technologies / Approaches</th>
 <th valign="top" width="14%">Difficulty</th></tr></thead>
-
+[link](https://ukr.com)
 <tr><td>Resume (GoIt)</td><td>[Live]()</td><td> [Code]()</td><td>HTML, CSS</td><td>⭐</td></tr>
-<tr><td>WebStudio (GoIT) / in process</td><td> [Live]:https://dima-kyiv.github.io/goit-markup-hw-02/</td>
+<tr><td>WebStudio (GoIT) / in process</td><td>[Live](https://dima-kyiv.github.io/goit-markup-hw-02/)</td>
 <td>[Code]:https://github.com/dima-kyiv/goit-markup-hw-02</td><td>HTML, CSS</td><td>⭐⭐⭐</td></tr>
 
 <tr><td>Barbershop (GoIT) / in process</td><td> [Live]: https://dima-kyiv.github.io/goit-barbershop_v1/</td>
