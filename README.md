@@ -20,7 +20,7 @@ I'm a passionate FrontEnd student developer from Ukraine.
 <tr><td>2</td><td></td><td>
 goit-markup-hw-01; goit-markup-hw-02
 </td><td>css color and text
-</td><td>⭐⭐⭐⭐</td></tr>
+</td><td>⭐⭐⭐⭐⭐</td></tr>
 <tr><td>1</td><td>6</td><td>
 goit-markup-hw-01
 </td><td>
