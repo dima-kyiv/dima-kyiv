@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/dima-kyiv/"><img width="80%" src="./img/readmy-header.png" /></a></p>
+<p align="center"><a href="https://github.com/dima-kyiv/"><img width="80%" src="./img/readme-header.png" /></a></p>
 
 <br />
 
