@@ -1,7 +1,6 @@
-<p align="center"><a href="https://github.com/dima-kyiv/"><img width="80%" src="./img/readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/dima-kyiv/"><img width="70%" src="./img/readme-header.png" /></a></p>
 <br />
-# Hi! I`m Dmytro Koval
-
+# Hi! I`m Dmytro Koval.
 I`m beginner in Web Development, and I want to be a Full Stack Developer. This is my way of gaining programming experience.
 
 **What, why and how**
