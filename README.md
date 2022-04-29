@@ -10,7 +10,8 @@ I'm a passionate FrontEnd student developer from Ukraine.
 
 📈 -Keeping weekly diary of my study.
 
-<table><tr><td valign="top" width="10%">
+<table><thead><tr><th>week</th><th>Time coding</th><th>Projects</th><th>KPI</th></tr></thead>
+<tr><td valign="top" width="10%">
 100
 </td><td valign="top" width="50%">
 xcxcxzckm.vmc.,vm,
