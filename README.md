@@ -18,7 +18,7 @@ I'm a passionate FrontEnd student developer from Ukraine.
 
 <tr><td>2</td><td>15</td><td>
 40dsdghffdgsdfgsxcxfh ghg  ghgffg dffsdf dsgfdfdsf fdgfdgsdfgsfdgfdsgsdfgsdgdfgdf
-</td><td>⭐⭐⭐⭐⭐</td></tr>
+</td><td>⭐⭐⭐</td></tr>
 <tr><td>1</td><td>12</td><td>
 40dsdghffdgsdfgsfdgfdgsdfgsfdgfdsgsdfgsdgdfgdf
 </td><td>⭐⭐⭐⭐⭐</td></tr>
