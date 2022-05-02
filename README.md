@@ -36,10 +36,14 @@ I`m beginner in Web Development, and I want to be a Full Stack Developer. This i
 <th align="top" width="36%">What I learned</th>
 <th align="top" width="14%">KPI</th></tr></thead>
 
-<tr><td>2</td><td></td><td>
-goit-markup-hw-01; goit-markup-hw-02
+<tr><td>3</td><td></td><td>
+goit-markup-hw-02; goit-markup-hw-03
 </td><td>css color and text
 </td><td>⭐⭐⭐⭐⭐</td></tr>
+<tr><td>2</td><td>4</td><td>
+goit-markup-hw-01; goit-markup-hw-02
+</td><td>css color and text; github setings
+</td><td>⭐⭐⭐</td></tr>
 <tr><td>1</td><td>6</td><td>
 goit-markup-hw-01
 </td><td>
